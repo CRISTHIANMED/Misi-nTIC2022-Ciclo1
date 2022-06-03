@@ -2,8 +2,8 @@
 
 Aqui encotraras las soluciones a los ejercicios propuestos
 
-- Paso1
-- Paso2
+-  Paso1
+-  Paso2
 
 1. hola
 1. casi
