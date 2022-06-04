@@ -1,5 +1,3 @@
-
-from distutils.command.clean import clean
 from math import factorial, pi
 
 def Ejercicio_1(nombre:str):
