@@ -1,4 +1,4 @@
-# Ejerciicios, talleres y retos MisiónTIC2022
+# Ejerciicios, talleres MisiónTIC2022
 
 Aqui encotraras las soluciones a los ejercicios propuestos
 
